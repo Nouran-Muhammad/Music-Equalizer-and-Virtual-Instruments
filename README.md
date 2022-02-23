@@ -1,7 +1,7 @@
 # Music-Equalizer-and-Virtual-Instruments
 The application is divided into 2 sections.
 
-The first section is a music equalizer where music can be uploaded and increase/decrease the volume and play with the sound of 3 instruments: Piano, Guitar, Flute
+The first section is a music equalizer where music can be uploaded and increase/decrease the volume and play with the sound of 3 instruments: Piano, Guitar, Flute along with the music's histogram
 The signal processing on the music is done using fourier transform.
 
 The second section is for the virtual instrumetns where the user can play 3 different instruments: Piano, Guitar, Drum
